@@ -1,7 +1,7 @@
 ## 
 
 <h1 align="center">Hi 👋, I'm Zenul(Zayn) Aabedeen Khan</h1>
-<h3 align="center">A passionate Cybersecurity Enthusiast</h3>
+<h3 align="center">A Cybersecurity Enthusiast</h3>
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
