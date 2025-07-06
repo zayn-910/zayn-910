@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <h1 align="center">Hi 👋, I'm Zenul(Zayn) Aabedeen Khan</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast</h3>
